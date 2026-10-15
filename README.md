@@ -8,7 +8,7 @@ A curated list of awesome AR resources
 * [EasyAR](http://easyar.com/)
 * [ARToolKit](https://github.com/artoolkit)
 * [Google ARCore](https://developers.google.com/ar/)
-* [Spark AR by Meta](https://sparkar.facebook.com/ar-studio/)
+* Spark AR by Meta — discontinued January 2025 (sparkar.facebook.com is offline). On where AR goes next: [surgeons are getting X-ray vision — the AR headset moment is here](https://calder-brief.pages.dev/xvision-x2-ar-spine-surgery-nass-2026.html)
 
 ## Libraries/Frameworks/Tools
 * [ArgonJS](https://github.com/argonjs/argon)
